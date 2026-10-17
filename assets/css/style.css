@@ -1344,6 +1344,44 @@ ul { list-style: none; }
   font-size: 0.82rem;
 }
 
+.developer-credit {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.dev-badge {
+  color: var(--white) !important;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 100px;
+  transition: all var(--transition);
+  text-decoration: none;
+  font-size: 0.8rem;
+}
+.dev-badge i {
+  color: var(--blue-light);
+  font-size: 0.95rem;
+  transition: transform var(--transition);
+}
+.dev-badge:hover {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: #fff !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(229, 27, 36, 0.35);
+}
+.dev-badge:hover i {
+  color: #fff;
+  transform: scale(1.15);
+}
+
 /* ---- Floating WhatsApp ---- */
 .whatsapp-float {
   position: fixed;
