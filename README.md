@@ -4,10 +4,16 @@ Sitio web profesional de una sola página para taller de carrocería, varillaje,
 
 ## 📍 Datos del Taller Configurados
 - **Nombre:** Reparaciones Garabito
+- **Experiencia:** Más de 2 décadas (+20 años) de trayectoria artesanal
 - **Dirección:** Av. Cruz del Sur 1977 (esq. Panamá), Col. Del Sur, C.P. 44920, Guadalajara, Jalisco, México
 - **Google Maps:** [https://maps.app.goo.gl/i5cn5fMS7wVPUB9j7?g_st=awb](https://maps.app.goo.gl/i5cn5fMS7wVPUB9j7?g_st=awb)
+- **Horario de Atención:**
+  - Lunes a Viernes: 7:00 am – 5:00 pm
+  - Sábados: 7:00 am – 1:00 pm
+  - Domingos: Cerrado
 - **Teléfono / WhatsApp:** +52 33 1584 3784
 - **Correo Electrónico:** Martin.charro@hotmail.com
+- **Servicios:** Varillaje (PDR), chupones, hojalatería & pintura, lavado de interiores (tapicerías), detallado automotriz y restauraciones.
 
 ---
 
